@@ -1,6 +1,6 @@
 Project: CW2013
 
-University computer programming standard project i developed for coursework Java.  2013 - 2014
+University computer programming standard project i developed for my coursework in Java during 2013 - 2014
 
 What type of project is this?
 
